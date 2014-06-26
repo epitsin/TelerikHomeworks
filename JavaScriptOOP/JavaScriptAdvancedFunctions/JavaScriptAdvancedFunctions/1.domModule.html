@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>DOM module</title>
+    <script src="scripts/domModule.js"></script>
+</head>
+<body>
+    <div id="wrapper"></div>
+    <script>
+        var div = document.createElement("div");
+        var list = '<ul><li>ListItem1</li><li>ListItem2</li><li class="special" style="color:blue">ListItem3</li><li>ListItem4</li></ul>';
+
+        div.innerHTML += list;
+
+        //appends div to #wrapper
+        domModule.appendChild(div, "#wrapper");
+
+        //removes li:first-child from ul
+        domModule.removeChild("ul", "li:first-child");
+
+        //add handler to each a element with class button
+        domModule.addHandler(".special", 'click',
+                             function () { alert("Clicked") });
+
+        //add 100 cloned divs to the wrapper WITHOUT being able to click ListItem3
+        for (var i = 0; i < 100; i++) {
+            domModule.appendToBuffer('#wrapper', div.cloneNode(true));
+        }
+        
+    </script>
+</body>
+</html>

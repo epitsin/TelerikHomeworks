@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Console module</title>
+    <script src="scripts/consoleModule.js"></script>
+</head>
+<body>
+    <script>
+        specialConsole.writeLine("Message: hello");
+        //logs to the console "Message: hello"
+        specialConsole.writeLine("Message: {0}", "hello");
+        //logs to the console "Message: hello"
+        specialConsole.writeError("Error: {0}", "Something happened");
+        specialConsole.writeWarning("Warning: {0}", "A warning");
+    </script>
+</body>
+</html>
