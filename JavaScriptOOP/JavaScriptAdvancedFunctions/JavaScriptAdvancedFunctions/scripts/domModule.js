@@ -8,13 +8,15 @@
 
     function removeChild(parentSelector, childSelector) {
         var parent = document.querySelector(parentSelector);
-        var element = document.querySelector(childSelector);
+        var element = parent.querySelector(childSelector);
         parent.removeChild(element);
     }
 
     function addHandler(elementSelector, eventType, eventHandler) {
-        var element = document.querySelector(elementSelector);
-        element.addEventListener(eventType, eventHandler);
+        var elements = document.querySelectorAll(elementSelector);
+        for (var i = 0; i < elements.length; i++) {
+            elements[i].addEventListener(eventType, eventHandler);
+        }
     }
 
     function appendToBuffer(parentSelector, element) {
