@@ -1,6 +1,0 @@
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\bin\JavaScriptAdvancedFunctions.dll.config
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\bin\JavaScriptAdvancedFunctions.dll
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\bin\JavaScriptAdvancedFunctions.pdb
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\obj\Debug\JavaScriptAdvancedFunctions.csprojResolveAssemblyReference.cache
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\obj\Debug\JavaScriptAdvancedFunctions.dll
-c:\users\elena\documents\visual studio 2013\Projects\JavaScriptAdvancedFunctions\JavaScriptAdvancedFunctions\obj\Debug\JavaScriptAdvancedFunctions.pdb
