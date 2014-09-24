@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Information Form</title>
+    <style>
+        .right
+        {
+            text-align: right;
+        }
+
+        .middle
+        {
+            text-align: center;
+        }
+
+        table
+        {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        td
+        {
+            border: 1px solid black;
+            width: 300px;
+        }
+
+        td:nth-of-type(1) 
+        {
+            width: 150px;
+            font-weight: bold;
+        }
+
+        tfoot
+        {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <form>
+    <table>
+        <tfoot>
+            <tr>
+                <td class="middle" colspan="2">
+                    <input type="submit" value="Submit" />
+                    <input type="reset" value="Clear This Form" />
+                </td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr>
+                <td class="right">Last Name</td>
+                <td><input type="text" name="Last Name" placeholder="Nakov"/></td>
+            </tr>
+            <tr>
+                <td class="right">First Name</td>
+                <td><input type="text" name="First Name" placeholder="Svetlin" /></td>
+            </tr>
+            <tr>
+                <td class="right">Address</td>
+                <td><textarea name="Address" placeholder="17 Hristo Botev Str, floor 3, apt. 12"></textarea></td>
+            </tr>
+            <tr>
+                <td class="right">City</td>
+                <td>
+                    <input type="text" name="City" placeholder="Kaspichan" size="15" />
+                    State<input type="text" name="State" placeholder="Kaspichanian" size="15" />
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Zip/Postal Code</td>
+                <td><input type="text" name="Zip Code" placeholder="9325" /></td>
+            </tr>
+            <tr>
+                <td class="right">Country</td>
+                <td>
+                    <select>
+                        <option value="Value 1" selected="selected">Bulgaria</option>
+                        <option value="Value 2">Kuweit</option>
+                        <option value="Value 3">Zanzibar</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Phone (country code, area code, number)</td>
+                <td>
+                    (+<input type="text" name="country code" placeholder="359" size="1"/>)
+                    <input type="text" name="area code" placeholder="88" size="1" />
+                    <input type="text" name="number" placeholder="8334343" size="5"/>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">E-mail</td>
+                <td><input type="text" name="E-mail" placeholder="nakov@kaspichan.org" /></td>
+            </tr>
+            <tr>
+                <td class="right">Birth date</td>
+                <td>
+                    Month<input type="text" name="month" placeholder="06" size="1" />
+                    Day<input type="text" name="day" placeholder="14" size="1" />
+                    Year (4 digit)<input type="text" name="year" placeholder="1980" size="2" />
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Gender</td>
+                <td>
+                    <select>
+                        <option value="Value 1" selected="selected">Male</option>
+                        <option value="Value 2">Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Starting date</td>
+                <td>
+                    <input type="radio" name="date" id="date1" />
+                    <label for="date1">Spring 2006</label>
+                    <input type="radio" name="date" id="date2" />
+                    <label for="date2">Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <td class="right">Comments/Questions</td>
+                <td><textarea name="Comments" placeholder="Please, send me more information about the lodging."></textarea></td>
+            </tr>
+        </tbody>
+    </table>
+        </form>
+</body>
+</html>

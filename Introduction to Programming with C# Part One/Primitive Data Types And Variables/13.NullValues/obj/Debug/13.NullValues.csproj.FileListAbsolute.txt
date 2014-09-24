@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\13.NullValues\bin\Debug\13.NullValues.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\13.NullValues\bin\Debug\13.NullValues.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\13.NullValues\bin\Debug\13.NullValues.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\13.NullValues\obj\Debug\13.NullValues.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\13.NullValues\obj\Debug\13.NullValues.pdb

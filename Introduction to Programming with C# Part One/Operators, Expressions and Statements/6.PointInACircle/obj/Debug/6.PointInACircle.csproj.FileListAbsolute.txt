@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\6.PointInACircle\bin\Debug\6.PointInACircle.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\6.PointInACircle\bin\Debug\6.PointInACircle.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\6.PointInACircle\bin\Debug\6.PointInACircle.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\6.PointInACircle\obj\Debug\6.PointInACircle.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\6.PointInACircle\obj\Debug\6.PointInACircle.pdb

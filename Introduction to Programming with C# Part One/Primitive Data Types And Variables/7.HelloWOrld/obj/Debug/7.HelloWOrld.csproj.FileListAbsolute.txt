@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\7.HelloWOrld\bin\Debug\7.HelloWOrld.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\7.HelloWOrld\bin\Debug\7.HelloWOrld.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\7.HelloWOrld\bin\Debug\7.HelloWOrld.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\7.HelloWOrld\obj\Debug\7.HelloWOrld.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\7.HelloWOrld\obj\Debug\7.HelloWOrld.pdb

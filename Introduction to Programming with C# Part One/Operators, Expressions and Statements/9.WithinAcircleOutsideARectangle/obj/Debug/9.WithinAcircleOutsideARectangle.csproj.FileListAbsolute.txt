@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\bin\Debug\9.WithinAcircleOutsideARectangle.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\bin\Debug\9.WithinAcircleOutsideARectangle.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\bin\Debug\9.WithinAcircleOutsideARectangle.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\obj\Debug\9.WithinAcircleOutsideARectangle.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\obj\Debug\9.WithinAcircleOutsideARectangle.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\9.WithinAcircleOutsideARectangle\obj\Debug\9.WithinAcircleOutsideARectangle.pdb

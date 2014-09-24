@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.HexadecimalRepresentationOfNumber\bin\Debug\4.HexadecimalRepresentationOfNumber.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.HexadecimalRepresentationOfNumber\bin\Debug\4.HexadecimalRepresentationOfNumber.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.HexadecimalRepresentationOfNumber\bin\Debug\4.HexadecimalRepresentationOfNumber.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.HexadecimalRepresentationOfNumber\obj\Debug\4.HexadecimalRepresentationOfNumber.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.HexadecimalRepresentationOfNumber\obj\Debug\4.HexadecimalRepresentationOfNumber.pdb

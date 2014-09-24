@@ -1,0 +1,77 @@
+﻿body {
+    background-color: #1e3741;
+}
+
+    body nav ul {
+        list-style-type: none;
+        margin-left: 50px;
+        padding: 0;
+    }
+
+        body nav ul li {
+            background: #4b5f67;
+            display: inline-block;
+            padding: 10px;
+        }
+
+            body nav ul li:first-child {
+                background-color: #1e3741;
+            }
+
+            body nav ul li a {
+                color: #7b9ead;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 18px;
+            }
+
+                body nav ul li a:hover {
+                    text-decoration: underline;
+                }
+
+    body aside ul {
+        list-style-type: none;
+        width: 300px;
+        margin-left: 50px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0px;
+        float: left;
+    }
+
+        body aside ul li {
+            padding: 5px;
+            border-bottom: 1px solid grey;
+        }
+
+            body aside ul li:first-child {
+                background: #00968c;
+                cursor: pointer;
+            }
+
+                body aside ul li:first-child a {
+                    color: #ffffff;
+                }
+
+            body aside ul li:hover {
+                background: #00968c;
+                color: #ffffff;
+            }
+
+                body aside ul li:hover a {
+                    color: #ffffff;
+                }
+
+            body aside ul li a {
+                text-decoration: none;
+                color: #8ba39b;
+                font-weight: bold;
+                font-size: 18px;
+            }
+
+div#video {
+    width: 400px;
+    height: 300px;
+    background: url('http://img543.imageshack.us/img543/115/picmhj.jpg');
+    float: left;
+}

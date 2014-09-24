@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\bin\Debug\12.ASCIItable.exe.config
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\bin\Debug\12.ASCIItable.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\bin\Debug\12.ASCIItable.pdb
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\obj\Debug\12.ASCIItable.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\obj\Debug\12.ASCIItable.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\12.ASCIItable\obj\Debug\12.ASCIItable.pdb

@@ -1,0 +1,29 @@
+﻿body {
+}
+
+table {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td, th {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    width: 150px;
+}
+
+th {
+    background-color: #5ce40a;
+    color: white;
+    font-weight: lighter;
+}
+
+tr:nth-child(2n) {
+    background-color: #eae5e5;
+}
+
+img {
+    width: 25px;
+    height: 15px;
+}

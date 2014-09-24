@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.ComparisonWithPrecision\bin\Debug\4.ComparisonWithPrecision.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.ComparisonWithPrecision\bin\Debug\4.ComparisonWithPrecision.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.ComparisonWithPrecision\bin\Debug\4.ComparisonWithPrecision.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.ComparisonWithPrecision\obj\Debug\4.ComparisonWithPrecision.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\4.ComparisonWithPrecision\obj\Debug\4.ComparisonWithPrecision.pdb

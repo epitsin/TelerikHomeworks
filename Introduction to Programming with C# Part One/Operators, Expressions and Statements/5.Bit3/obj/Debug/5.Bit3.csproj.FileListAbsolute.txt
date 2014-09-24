@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\5.Bit3\bin\Debug\5.Bit3.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\5.Bit3\bin\Debug\5.Bit3.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\5.Bit3\bin\Debug\5.Bit3.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\5.Bit3\obj\Debug\5.Bit3.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\5.Bit3\obj\Debug\5.Bit3.pdb

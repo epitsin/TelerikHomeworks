@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\bin\Debug\3.FloatOrDouble.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\bin\Debug\3.FloatOrDouble.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\bin\Debug\3.FloatOrDouble.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\obj\Debug\3.FloatOrDouble.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\obj\Debug\3.FloatOrDouble.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\3.FloatOrDouble\obj\Debug\3.FloatOrDouble.pdb

@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\12.ModifyNtoValueV\bin\Debug\12.ModifyNtoValueV.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\12.ModifyNtoValueV\bin\Debug\12.ModifyNtoValueV.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\12.ModifyNtoValueV\bin\Debug\12.ModifyNtoValueV.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\12.ModifyNtoValueV\obj\Debug\12.ModifyNtoValueV.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\12.ModifyNtoValueV\obj\Debug\12.ModifyNtoValueV.pdb

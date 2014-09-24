@@ -1,0 +1,36 @@
+﻿body section {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #d7d2d2;
+    width: 460px;
+    height: 650px;
+    font-size: 14px;
+}
+
+    body section header {
+        margin: 20px;
+        font-size: 16px;
+    }
+
+    body section article {
+        width: 350px;
+        height: 120px;
+        background-color: #ffffff;
+        margin: 30px;
+        padding: 20px;
+        border: 1px solid grey;
+        text-align: right;
+    }
+
+        body section article img {
+            float: left;
+        }
+
+        body section article input {
+            display: inline-block;
+            background-color: #d80f0f;
+            border-color: #ff0000;
+            padding-left: 10px;
+            color: #ffffff;
+            box-shadow: inset 10px 0 0 #8A0000;
+        }

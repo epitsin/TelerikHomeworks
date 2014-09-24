@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\2.DivideBy5And7\bin\Debug\2.DivideBy5And7.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\2.DivideBy5And7\bin\Debug\2.DivideBy5And7.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\2.DivideBy5And7\bin\Debug\2.DivideBy5And7.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\2.DivideBy5And7\obj\Debug\2.DivideBy5And7.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\2.DivideBy5And7\obj\Debug\2.DivideBy5And7.pdb

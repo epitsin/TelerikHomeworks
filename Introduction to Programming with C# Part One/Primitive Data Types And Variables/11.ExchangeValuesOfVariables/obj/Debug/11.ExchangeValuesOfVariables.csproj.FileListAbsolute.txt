@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\bin\Debug\11.ExchangeValuesOfVariables.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\bin\Debug\11.ExchangeValuesOfVariables.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\bin\Debug\11.ExchangeValuesOfVariables.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\obj\Debug\11.ExchangeValuesOfVariables.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\obj\Debug\11.ExchangeValuesOfVariables.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\11.ExchangeValuesOfVariables\obj\Debug\11.ExchangeValuesOfVariables.pdb

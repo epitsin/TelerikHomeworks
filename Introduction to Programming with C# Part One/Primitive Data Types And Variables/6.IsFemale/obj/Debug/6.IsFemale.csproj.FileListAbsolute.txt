@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\6.IsFemale\bin\Debug\6.IsFemale.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\6.IsFemale\bin\Debug\6.IsFemale.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\6.IsFemale\bin\Debug\6.IsFemale.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\6.IsFemale\obj\Debug\6.IsFemale.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\6.IsFemale\obj\Debug\6.IsFemale.pdb

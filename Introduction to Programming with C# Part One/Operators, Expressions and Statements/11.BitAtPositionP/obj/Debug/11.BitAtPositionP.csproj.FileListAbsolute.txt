@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\11.BitAtPositionP\bin\Debug\11.BitAtPositionP.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\11.BitAtPositionP\bin\Debug\11.BitAtPositionP.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\11.BitAtPositionP\bin\Debug\11.BitAtPositionP.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\11.BitAtPositionP\obj\Debug\11.BitAtPositionP.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\11.BitAtPositionP\obj\Debug\11.BitAtPositionP.pdb

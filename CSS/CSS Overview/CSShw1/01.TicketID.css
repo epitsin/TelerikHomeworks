@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #4F4F4F;
+}
+
+header {
+    font-size: 22px;
+    color: lightgrey;
+}
+
+td {
+    color: white;
+    padding: 10px 10px 10px 0px;
+}
+
+    td:nth-child(1) {
+        vertical-align: top;
+        font-style: italic;
+        text-align: left;
+    }
+
+.red {
+    color: red;
+}
+
+.grey {
+    color: lightgrey;
+}
+
+.orange {
+    color: orange;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}

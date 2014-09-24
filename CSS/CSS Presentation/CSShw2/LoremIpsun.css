@@ -1,0 +1,13 @@
+﻿body {
+    color: #0094ff;
+    font-family: Consolas, 'Edwardian Script ITC', 'Times New Roman';
+}
+
+p::first-line {
+    font-weight: bold;
+}
+
+p::first-letter {
+    font-family: 'Edwardian Script ITC', 'Times New Roman';
+    font-size: 45px;
+}

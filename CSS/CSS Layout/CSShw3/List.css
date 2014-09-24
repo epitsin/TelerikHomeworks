@@ -1,0 +1,21 @@
+﻿body ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+    body ul li a {
+        text-decoration: none;
+    }
+
+        body ul li a:hover {
+            text-decoration: underline;
+        }
+
+    body ul li ul {
+        display: none;
+        color: grey;
+    }
+
+    body ul li:hover ul {
+        display: block;
+    }

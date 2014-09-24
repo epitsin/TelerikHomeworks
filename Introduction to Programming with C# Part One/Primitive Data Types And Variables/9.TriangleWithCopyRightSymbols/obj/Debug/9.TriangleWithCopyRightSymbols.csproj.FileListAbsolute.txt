@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\bin\Debug\9.TriangleWithCopyRightSymbols.exe.config
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\bin\Debug\9.TriangleWithCopyRightSymbols.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\bin\Debug\9.TriangleWithCopyRightSymbols.pdb
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\obj\Debug\9.TriangleWithCopyRightSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\obj\Debug\9.TriangleWithCopyRightSymbols.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\2.SecondLection_1.11.13\9.TriangleWithCopyRightSymbols\obj\Debug\9.TriangleWithCopyRightSymbols.pdb

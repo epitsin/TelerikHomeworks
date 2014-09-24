@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\bin\Debug\2.Character72InHexadecimal.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\bin\Debug\2.Character72InHexadecimal.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\bin\Debug\2.Character72InHexadecimal.pdb
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\obj\Debug\2.Character72InHexadecimal.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\obj\Debug\2.Character72InHexadecimal.exe
+c:\users\elena\documents\visual studio 2012\Projects\2.SecondLection_1.11.13\2.Character72InHexadecimal\obj\Debug\2.Character72InHexadecimal.pdb

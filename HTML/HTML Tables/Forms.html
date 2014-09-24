@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Forms</title>
+    <style>
+        input[type="submit"]
+        {
+            background: url('Images/Submit.jpeg') no-repeat;
+            background-size: 70px 70px;
+            width: 70px;
+            height: 70px;
+        }
+        p
+        {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <p>Member name: <input type="text" name="memberName" placeholder="Gosho Peshov" required="required" /> *req </p>
+        <p>Email: <input type="text" name="email" placeholder="asd@email.com" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required="required" /> *req </p>
+        <p>School: <input type="text" name="school" placeholder="SMG" required="required" /> *req </p>
+        <input type="submit" value="" />
+    </form>
+</body>
+</html>

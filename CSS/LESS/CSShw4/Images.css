@@ -1,0 +1,17 @@
+body div {
+  position: relative;
+  display: block;
+}
+body div a img {
+  width: 150px;
+  height: 100px;
+  margin: 10px;
+}
+body div a img:hover {
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 0;
+  width: 500px;
+  height: auto;
+}

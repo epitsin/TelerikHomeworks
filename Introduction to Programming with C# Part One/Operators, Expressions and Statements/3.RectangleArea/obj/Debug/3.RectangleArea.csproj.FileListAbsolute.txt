@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\3.RectangleArea\obj\Debug\3.RectangleArea.pdb

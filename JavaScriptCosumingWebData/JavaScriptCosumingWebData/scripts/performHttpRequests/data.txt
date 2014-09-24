@@ -1,7 +1,0 @@
-[{ "firstName": "Joreto", "lastName": "Ivanov", "age": "34"},
-    { "firstName": "Katq", "lastName": "Ivanova", "age": "2" },
-    { "firstName": "Milko", "lastName": "Ivanov", "age": "7" },
-    { "firstName": "Ivancho", "lastName": "Ivanov", "age": "15" },
-    { "firstName": "Pepi", "lastName": "Ivanov", "age": "13" },
-    { "firstName": "Dobrinka", "lastName": "Ivanova", "age": "23" },
-    { "firstName": "KilataMaika", "lastName": "Ivanov", "age": "22" }]

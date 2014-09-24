@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\bin\Debug\13.Exchange345With242526.exe.config
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\obj\Debug\13.Exchange345With242526.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\bin\Debug\13.Exchange345With242526.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\bin\Debug\13.Exchange345With242526.pdb
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\obj\Debug\13.Exchange345With242526.exe
+C:\Users\Elena\Documents\Visual Studio 2012\Projects\3.ThirdLection_5.11.2013\13.Exchange345With242526\obj\Debug\13.Exchange345With242526.pdb
