@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\bin\Debug\PriorityQueueWithBinaryHeap.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\bin\Debug\PriorityQueueWithBinaryHeap.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\bin\Debug\PriorityQueueWithBinaryHeap.pdb
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\obj\Debug\PriorityQueueWithBinaryHeap.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\obj\Debug\PriorityQueueWithBinaryHeap.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\PriorityQueueWithBinaryHeap\obj\Debug\PriorityQueueWithBinaryHeap.pdb
