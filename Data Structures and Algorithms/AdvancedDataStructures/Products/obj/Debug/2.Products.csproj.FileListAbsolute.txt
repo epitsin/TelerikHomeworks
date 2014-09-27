@@ -1,0 +1,7 @@
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\bin\Debug\Products.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\bin\Debug\Products.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\bin\Debug\Products.pdb
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\bin\Debug\PowerCollections.dll
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\bin\Debug\PowerCollections.xml
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\obj\Debug\Products.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\Products\obj\Debug\Products.pdb
