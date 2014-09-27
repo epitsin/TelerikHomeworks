@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\obj\Debug\3.WordsInText.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\obj\Debug\WordsInText.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\bin\Debug\WordsInText.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\bin\Debug\WordsInText.exe
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\bin\Debug\WordsInText.pdb
+c:\users\elena\documents\visual studio 2013\Projects\AdvancedDataStructures\WordsInText\obj\Debug\WordsInText.pdb
